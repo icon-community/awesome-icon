@@ -15,7 +15,6 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Interoperability](#interoperability)
   - [NFT](#nft)
   - [Oracle](#oracle)
-  - [ICE/SNOW Polkadot parachains](#icesnow-polkadot-parachains)
   - [RPC](#rpc)
   - [Templating](#templating)
   - [Testing](#testing)
@@ -23,10 +22,10 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Wallet](#wallet)
 - [Resources](#resources)
   - [Related awesome lists](#related-awesome-lists)
+  - [Core documentations](#core-documentations)
   - [Communities](#communities)
-  - [Funding programs]()
-  - [Podcasts](#podcasts)
-  - [Blogs and websites](#blogs-and-websites)
+  - [Funding programs](#funding-programs)
+  - [Content](#content)
 
 # Projects
 
