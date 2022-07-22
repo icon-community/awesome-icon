@@ -6,30 +6,30 @@ _Note that smart contracts decentralized applications also function as libraries
 # Contents
  
 - [Projects](#projects)
- - [Core ICON blockchain](#core-icon-blockchain)
- - [Decentralized finance](#decentralized-finance)
- - [Exchanges](#exchanges)
- - [Execution environment](#execution-environment)
- - [Games](#games)
- - [Governance](#governance)
- - [Interoperability](#interoperability)
- - [NFT](#nft)
- - [Oracle](#oracle)
- - [RPC](#rpc)
- - [Templating](#templating)
- - [Testing](#testing)
- - [Tracker](#tracker)
- - [Wallet](#wallet)
+  - [Core ICON blockchain](#core-icon-blockchain)
+  - [Decentralized finance](#decentralized-finance)
+  - [Exchanges](#exchanges)
+  - [Execution environment](#execution-environment)
+  - [Games](#games)
+  - [Governance](#governance)
+  - [Interoperability](#interoperability)
+  - [NFT](#nft)
+  - [Oracle](#oracle)
+  - [RPC](#rpc)
+  - [Templating](#templating)
+  - [Testing](#testing)
+  - [Tracker](#tracker)
+  - [Wallet](#wallet)
 - [Resources](#resources)
- - [Related awesome lists](#related-awesome-lists)
- - [Core documentations](#core-documentations)
- - [Communities](#communities)
- - [Funding programs](#funding-programs)
- - [Content](#content)
+  - [Related awesome lists](#related-awesome-lists)
+  - [Core documentations](#core-documentations)
+  - [Communities](#communities)
+  - [Funding programs](#funding-programs)
+  - [Content](#content)
  
 # Projects
  
-## Core Icon blockchain
+## Core ICON blockchain
 _Core components to ICON blockchain_
  
 - [goloop](https://github.com/icon-project/goloop) - The basis for the official ICON blockchain node
@@ -42,9 +42,9 @@ _Tools for conducing decentralized finance in the ICON ecosystem_
  
 - [Balanced DAO](https://docs.balanced.network/) - Stablecoin dApp that uses ICX as collateral to mint Balanced Dollars (bnUSD), a token pegged to 1 US Dollar
 - [Convexus](https://dev.convexus.net/) - Convexus introduces concentrated liquidity, giving individual liquidity providers (LPs) granular control over what price ranges their capital is allocated to
-- [IconFi](https://www.icon-fi.com/) - Decentralized finance market built on Icon main network
+- [ICONFi](https://www.icon-fi.com/) - Decentralized finance market built on ICON main network
 - [Karma Finance](https://karma-finance.gitbook.io/karma-bond-documentation/overview/introduction) - Karma Bond is a protocol owned liquidity-as-a-service, providing treasuries and bonds optimized to individual protocol needs
-- [Omm](https://omm.finance/how/) - Decentralized finance market built on Icon main network
+- [Omm](https://omm.finance/how/) - Decentralized finance market built on ICON main network
 - [Stably](https://www.stably.io/usds/) - Stablecoin tradable on the Icon main network backed by the U.S. dollar
 - [Optimus](https://docs.optimus.finance/) - Optimus is an on-chain yield optimizer for earning staking rewards
  
