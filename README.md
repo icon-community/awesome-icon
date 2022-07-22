@@ -81,7 +81,7 @@ _Tools and software related to blockchain interoperability in the ICON ecosystem
 - [btp](https://github.com/icon-project/btp) - Blockchain Transmission Protocol, which is the ICON Foundation's core interoperability product
 - [btp-litepaper](https://github.com/icon-project/btp-litepaper) - Lite explainer paper for BTP. [Also available here](https://icon.community/assets/btp-litepaper.pdf)
 - [Nexus](https://github.com/icon-project/Nexus) - Interoperability frontend for using the Blockchain Transmission Protocol with the ICON main network as a routing hub
-- [Orbit Bridge](https://bridge.orbitchain.io/) - Bridging option available on for the ICON blockchain ecosystem
+- [Orbit Bridge](https://bridge-docs.orbitchain.io/) - Bridging option available on for the ICON blockchain ecosystem
  
 ## NFT
 _Tools and software related to non-fungible tokens_
@@ -120,7 +120,7 @@ _Tools and software related to tracking the state of the ICON blockchain_
  
 - [ICON Community Tracker](https://tracker.icon.community/) - A blockchain tracker for the ICON main and test networks that can be [run locally as well](https://github.com/sudoblockio/icon-tracker)
 - [ICON Watch](https://iconwat.ch/) - A blockchain tracker made by [Blockmove](https://blockmove.eu/)
-- [Rhizome Community Tracker](https://alpha.tracker.rhizome.dev/governance/) - A blockchain explorer built by the team members from Rhizome.
+- [Rhizome Community Tracker](https://alpha.tracker.rhizome.dev/) - A blockchain explorer built by the team members from Rhizome.
  
 ## Wallet
 _Cryptocurrency wallets built with the ICON ecosystem in mind_
@@ -128,7 +128,7 @@ _Cryptocurrency wallets built with the ICON ecosystem in mind_
 - [Hana wallet](https://chrome.google.com/webstore/detail/hana/jfdlamikmbghhapbgfoogdffldioobgl) - Chrome extension wallet for cryptocurrencies in the ICON ecosystem
 - [IconEx wallet](https://github.com/icon-project/iconex_chrome_extension) -  ICONex Chrome extension wallet for cryptocurrencies in the ICON ecosystem
 - [MyIconWallet](https://github.com/Hana-Technology/myiconwallet-react) - Desktop and mobile wallet for cryptocurrencies in the ICON ecosystem
-- [Bridge wallet](https://bridgepay.money/) - A fiat onramp for USD that is integrated for use with the ICON ecosystem
+- [Bridge wallet](https://docs.bridgepay.money/) - A fiat onramp for USD that is integrated for use with the ICON ecosystem
  
 # Resources
  
