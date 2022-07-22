@@ -42,11 +42,11 @@ _Tools for conducing decentralized finance in the ICON ecosystem_
  
 - [Balanced DAO](https://docs.balanced.network/) - Stablecoin dApp that uses ICX as collateral to mint Balanced Dollars (bnUSD), a token pegged to 1 US Dollar
 - [Convexus](https://dev.convexus.net/) - Convexus introduces concentrated liquidity, giving individual liquidity providers (LPs) granular control over what price ranges their capital is allocated to
-- [IconFi](https://www.icon-fi.com/) - Decentralized finance market built on Icon main network
+- [ICONFi](https://www.icon-fi.com/) - Decentralized finance market built on ICON main network
 - [Karma Finance](https://karma-finance.gitbook.io/karma-bond-documentation/overview/introduction) - Karma Bond is a protocol owned liquidity-as-a-service, providing treasuries and bonds optimized to individual protocol needs
-- [Omm](https://omm.finance/how/) - Decentralized finance market built on Icon main network
+- [Omm](https://omm.finance/how/) - Decentralized finance market built on ICON main network
 - [Optimus](https://docs.optimus.finance/) - Optimus is an on-chain yield optimizer for earning staking rewards
-- [Stably](https://www.stably.io/usds/) - Stablecoin tradable on the Icon main network backed by the U.S. dollar
+- [Stably](https://www.stably.io/usds/) - Stablecoin tradable on the ICON main network backed by the U.S. dollar
  
 ## Exchanges
 _Public sources for exchanging ICX currency_
