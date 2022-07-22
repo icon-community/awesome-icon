@@ -45,8 +45,8 @@ _Tools for conducing decentralized finance in the ICON ecosystem_
 - [IconFi](https://www.icon-fi.com/) - Decentralized finance market built on Icon main network
 - [Karma Finance](https://karma-finance.gitbook.io/karma-bond-documentation/overview/introduction) - Karma Bond is a protocol owned liquidity-as-a-service, providing treasuries and bonds optimized to individual protocol needs
 - [Omm](https://omm.finance/how/) - Decentralized finance market built on Icon main network
-- [Stably](https://www.stably.io/usds/) - Stablecoin tradable on the Icon main network backed by the U.S. dollar
 - [Optimus](https://docs.optimus.finance/) - Optimus is an on-chain yield optimizer for earning staking rewards
+- [Stably](https://www.stably.io/usds/) - Stablecoin tradable on the Icon main network backed by the U.S. dollar
  
 ## Exchanges
 _Public sources for exchanging ICX currency_
