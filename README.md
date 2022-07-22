@@ -61,8 +61,8 @@ _Public sources for exchanging ICX currency_
 ## Execution environment
 _Tools and software related to the ICON smart contract execution environment_
  
-- [javaee-scorex](https://github.com/icon-project/javaee-scorex) - some useful Java classes that can be used as substitutes for some Java standard I/O and collections frameworks when you write ICON Java smart contracts
 - [gradle-javaee-plugin](https://github.com/icon-project/gradle-javaee-plugin) - Gradle plugin for ICON Java Execution Environment
+- [javaee-scorex](https://github.com/icon-project/javaee-scorex) - some useful Java classes that can be used as substitutes for some Java standard I/O and collections frameworks when you write ICON Java smart contracts
 - [javaee-annotation-processor](https://github.com/icon-project/javaee-annotation-processor) - Annotation-processor for ICON Java smart contract environment
  
 ## Games
@@ -101,10 +101,10 @@ _Tools and software related to on-chain [oracles](https://docs.icon.community/co
 _Tools and software related to the Remote Procedure Call interface for API Endpoint nodes on the ICON blockchain_
  
 - [ICON JSON-RPC API v3](https://docs.icon.community/icon-stack/client-apis/json-rpc-api) - Documentations for the JSON-RPC API associated with ICON API Endpoint nodes
+- [ICONKit](https://github.com/icon-project/ICONKit) - ICON SDK for iOS
 - [icon-sdk-python](https://github.com/icon-project/icon-sdk-python) - Official ICON SDK for Python based on ICON JSON-RPC API V3
 - [icon-sdk-java](https://github.com/icon-project/icon-sdk-java) - Official ICON SDK for Java based on ICON JSON-RPC API V3
 - [icon-sdk-js](https://github.com/icon-project/icon-sdk-js) - Official ICON SDK for JavaScript based on ICON JSON-RPC API V3
-- [ICONKit](https://github.com/icon-project/ICONKit) - ICON SDK for iOS
  
 ## Templating
 _Templating for bootstrapping smart contracts and other software in the ICON ecosystem_
@@ -127,24 +127,25 @@ _Tools and software related to tracking the state of the ICON blockchain_
 ## Wallet
 _Cryptocurrency wallets built with the ICON ecosystem in mind_
  
+- [Bridge wallet](https://docs.bridgepay.money/) - A fiat onramp for USD that is integrated for use with the ICON ecosystem
 - [Hana wallet](https://chrome.google.com/webstore/detail/hana/jfdlamikmbghhapbgfoogdffldioobgl) - Chrome extension wallet for cryptocurrencies in the ICON ecosystem
 - [IconEx wallet](https://github.com/icon-project/iconex_chrome_extension) -  ICONex Chrome extension wallet for cryptocurrencies in the ICON ecosystem
 - [MyIconWallet](https://github.com/Hana-Technology/myiconwallet-react) - Desktop and mobile wallet for cryptocurrencies in the ICON ecosystem
-- [Bridge wallet](https://docs.bridgepay.money/) - A fiat onramp for USD that is integrated for use with the ICON ecosystem
  
 # Resources
  
 ## Related awesome lists
 _Other awesome community collections for related products and ecosystems_
  
-- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of resources in the Java ecosystem
-- [awesome-ethereum](https://github.com/bekatom/awesome-ethereum) - A curated list of resources in the Ethereum ecosystem
 - [awesome-dot](https://github.com/Awesomedot/awesome-dot/) - A curated list of resources in the Polkadot & Kusama ecosystem
+- [awesome-ethereum](https://github.com/bekatom/awesome-ethereum) - A curated list of resources in the Ethereum ecosystem
+- [awesome-java](https://github.com/akullpp/awesome-java) - A curated list of resources in the Java ecosystem
  
 ## Core documentations
 _Documentations for the core ICON blockchain_
-- [ICON blockchain technical documentations](https://docs.icon.community)
+
 - [ICE / SNOW network technical documentations](https://docs.icenetwork.io/welcome/introduction)
+- [ICON blockchain technical documentations](https://docs.icon.community)
 - [ICON Improvement Proposals (IIPs)](https://github.com/icon-project/iips)
  
 ## Communities
