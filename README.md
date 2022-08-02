@@ -105,7 +105,7 @@ _Tools and software related to the Remote Procedure Call interface for API Endpo
 - [icon-sdk-python](https://github.com/icon-project/icon-sdk-python) - Official ICON SDK for Python based on ICON JSON-RPC API V3
 - [icon-sdk-java](https://github.com/icon-project/icon-sdk-java) - Official ICON SDK for Java based on ICON JSON-RPC API V3
 - [icon-sdk-js](https://github.com/icon-project/icon-sdk-js) - Official ICON SDK for JavaScript based on ICON JSON-RPC API V3
- 
+ - [Espanicon-sdk](https://github.com/Espanicon/espanicon-sdk) - Custom SDK written in JS created by Espanicon team.
 ## Templating
 _Templating for bootstrapping smart contracts and other software in the ICON ecosystem_
  
