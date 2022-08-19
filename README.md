@@ -167,4 +167,5 @@ _Programs for getting your ICON ecosystem projects funded_
 _Audio-visual, written, or other mediums for discussing and learning about ICON_
  
 - [Eye on ICON](https://www.youtube.com/channel/UCJJ7_44t3DAU_Rgc0LIF4Eg) - Weekly podcast run by Fezbox and Iconographer, dedicated to topics in the ICON ecosystem
-- [ICONgraphs](https://twitter.com/ICONgraphs) - Infographics based on the ICON ecosystem.
+- [ICONgraphs](https://twitter.com/ICONgraphs) - Infographics based on the ICON ecosystem
+- [Myiconcommunity](https://myiconcommunity.com/) - ICON’s very own news aggregator
