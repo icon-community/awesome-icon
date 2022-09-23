@@ -1,7 +1,7 @@
 # awesome-icon
 A curated list of awesome frameworks, libraries, software, and other resources for the ICON blockchain ecosystem
 
-_Note that smart contracts decentralized applications also function as libraries and software services with publicly accessible APIs. See the [composability](https://docs.icon.community/icon-stack/smart-contracts/composability) and [remote-procedure-call](https://docs.icon.community/icon-stack/client-apis/json-rpc-api) topics on the official documentations to learn more_
+_Note that smart contracts also function as libraries and software services with publicly accessible APIs. See the [composability](https://docs.icon.community/icon-stack/smart-contracts/composability) and [remote-procedure-call](https://docs.icon.community/icon-stack/client-apis/json-rpc-api) topics on the official documentations to learn more_
 
 # Contents
 
