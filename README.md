@@ -7,6 +7,7 @@ _Note that smart contracts decentralized applications also function as libraries
 
 - [Projects](#projects)
   - [Core ICON blockchain](#core-icon-blockchain)
+  - [Decentralized autonomous organization (DAO)](#decentralized-autonomous-organization-dao)
   - [Decentralized finance](#decentralized-finance)
   - [Exchanges](#exchanges)
   - [Execution environment](#execution-environment)
@@ -36,6 +37,9 @@ _Core components to ICON blockchain_
 - [gochain-local](https://github.com/icon-project/gochain-local) - Tools for running the ICON blockchain locally
 - [goloop-icon](https://hub.docker.com/r/iconloop/goloop-icon) - Docker container for the goloop blockchain engine
 - [icon2-node](https://hub.docker.com/r/iconloop/icon2-node) - Docker container for an ICON blockchain node
+
+## Decentralized autonomous organization (DAO)
+- [icon-daos](https://github.com/Staky-io/icon-daos) - Tracking tool for DAOs in the ICON ecosystem
 
 ## Decentralized finance
 _Tools for conducing decentralized finance in the ICON ecosystem_
