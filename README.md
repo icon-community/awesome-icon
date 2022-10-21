@@ -17,7 +17,7 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Interoperability](#interoperability)
   - [NFT](#nft)
   - [Oracle](#oracle)
-  - [RPC](#rpc-api)
+  - [RPC API](#rpc-api)
   - [Templating](#templating)
   - [Testing](#testing)
   - [Tracker](#tracker)
