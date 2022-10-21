@@ -11,12 +11,13 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Decentralized finance](#decentralized-finance)
   - [Exchanges](#exchanges)
   - [Execution environment](#execution-environment)
+  - [Faucets](#faucets)
   - [Games](#games)
   - [Governance](#governance)
   - [Interoperability](#interoperability)
   - [NFT](#nft)
   - [Oracle](#oracle)
-  - [RPC](#rpc)
+  - [RPC](#rpc-api)
   - [Templating](#templating)
   - [Testing](#testing)
   - [Tracker](#tracker)
@@ -69,6 +70,11 @@ _Tools and software related to the ICON smart contract execution environment_
 - [javaee-scorex](https://github.com/icon-project/javaee-scorex) - some useful Java classes that can be used as substitutes for some Java standard I/O and collections frameworks when you write ICON Java smart contracts
 - [javaee-annotation-processor](https://github.com/icon-project/javaee-annotation-processor) - Annotation-processor for ICON Java smart contract environment
 
+## Faucets
+_Testnet faucets for receiving tokens to test decentralized application functionality_
+
+- [ICONOSPHERE Faucet](https://faucet.iconosphere.io/) - A faucet for receiving testnet ICX tokens on Berlin or Lisbon testnets
+
 ## Games
 _Games in the ICON ecosystem and libraries for creating games_
 
@@ -103,10 +109,11 @@ _Tools and software related to on-chain [oracles](https://docs.icon.community/co
 
 - [Band Protocol](https://github.com/bandprotocol) - An open standard for decentralized management of data in Web3 stack
 
-## RPC
+## RPC API
 _Tools and software related to the Remote Procedure Call interface for API Endpoint nodes on the ICON blockchain_
 
 - [Espanicon-sdk](https://github.com/Espanicon/espanicon-sdk) - Custom ICON SDK written in JS created by Espanicon team
+- [flutter_icon_network](https://pub.dev/packages/flutter_icon_network/versions/1.0.0) - ICON SDK for Flutter
 - [ICON JSON-RPC API v3](https://docs.icon.community/icon-stack/client-apis/json-rpc-api) - Documentations for the JSON-RPC API associated with ICON API Endpoint nodes
 - [ICONKit](https://github.com/icon-project/ICONKit) - ICON SDK for iOS
 - [ICONSdk.net](https://github.com/EclecticaNetwork/IconSDK.net) - ICON SDK for .NET
@@ -124,13 +131,14 @@ _Tools related to testing code, including smart contracts, for the ICON blockcha
 
 - [icon-testsuite](https://github.com/icon-project/icon-testsuite) - A collection of test cases for the ICON node using client SDK in Java
 - [javaee-unittest](https://github.com/icon-project/javaee-unittest) - An Unit Testing Framework for ICON Java smart contracts
+- [Live network transaction tracer](https://icon-tx-tracer.vercel.app/) - A web app for tracing ICON network transactions on live networks
 
 ## Tracker
 _Tools and software related to tracking the state of the ICON blockchain_
 
 - [ICON Community Tracker](https://tracker.icon.community/) - A blockchain tracker for the ICON main and test networks that can be [run locally as well](https://github.com/sudoblockio/icon-tracker)
 - [ICON Watch](https://iconwat.ch/) - A blockchain tracker made by [Blockmove](https://blockmove.eu/)
-- [Rhizome Community Tracker](https://alpha.tracker.rhizome.dev/) - A blockchain explorer built by the team members from Rhizome.
+- [Rhizome Community Tracker](https://alpha.tracker.rhizome.dev/) - A blockchain explorer built by the team members from Rhizome
 
 ## Wallet
 _Cryptocurrency wallets built with the ICON ecosystem in mind_
@@ -176,3 +184,4 @@ _Audio-visual, written, or other mediums for discussing and learning about ICON_
 - [Eye on ICON](https://www.youtube.com/channel/UCJJ7_44t3DAU_Rgc0LIF4Eg) - Weekly podcast run by Fezbox and Iconographer, dedicated to topics in the ICON ecosystem
 - [ICONgraphs](https://twitter.com/ICONgraphs) - Infographics based on the ICON ecosystem
 - [Myiconcommunity](https://myiconcommunity.com/) - ICON’s very own news aggregator
+- [Espanicon blog](https://dev.to/espanicon) - Technical blog from Espanicon ICON validator team
