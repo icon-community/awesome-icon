@@ -6,6 +6,7 @@ _Note that smart contracts decentralized applications also function as libraries
 # Contents
 
 - [Projects](#projects)
+  - [Build assist tools](#build-assist-tools)
   - [Core ICON blockchain](#core-icon-blockchain)
   - [Decentralized autonomous organization (DAO)](#decentralized-autonomous-organization-dao)
   - [Decentralized finance](#decentralized-finance)
@@ -28,8 +29,12 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Communities](#communities)
   - [Funding programs](#funding-programs)
   - [Content](#content)
+  - [Tutorials](#tutorials)
 
 # Projects
+
+## Build assist tools
+- [drogon](https://github.com/icon-community/drogon/) - A robust, lightweight application development framework used for developing, testing, and deploying smart contracts on the ICON blockchain
 
 ## Core ICON blockchain
 _Core components to ICON blockchain_
@@ -186,3 +191,8 @@ _Audio-visual, written, or other mediums for discussing and learning about ICON_
 - [ICONgraphs](https://twitter.com/ICONgraphs) - Infographics based on the ICON ecosystem
 - [Myiconcommunity](https://myiconcommunity.com/) - ICON’s very own news aggregator
 - [Espanicon blog](https://dev.to/espanicon) - Technical blog from Espanicon ICON validator team
+- [ICON Community blog](https://icon.community/blog/)
+
+## Tutorials
+_Tutorials for participating in the ICON ecosystem_
+- [ICON Python Tutorials](https://github.com/rhizome-labs/icon-python-tutorials/tree/main/icon_python_tutorials) - Tutorials developed by [Rhizome Labs](https://github.com/rhizome-labs) for using the [Python SDK](https://github.com/icon-project/icon-sdk-python)
