@@ -119,12 +119,14 @@ _Tools and software related to the Remote Procedure Call interface for API Endpo
 
 - [Espanicon-sdk](https://github.com/Espanicon/espanicon-sdk) - Custom ICON SDK written in JS created by Espanicon team
 - [flutter_icon_network](https://pub.dev/packages/flutter_icon_network/versions/1.0.0) - ICON SDK for Flutter
+- [go-icon-sdk](https://github.com/eyeonicon/go-icon-sdk) - ICON SDK for Go
 - [ICON JSON-RPC API v3](https://docs.icon.community/icon-stack/client-apis/json-rpc-api) - Documentations for the JSON-RPC API associated with ICON API Endpoint nodes
 - [ICONKit](https://github.com/icon-project/ICONKit) - ICON SDK for iOS
 - [ICONSdk.net](https://github.com/EclecticaNetwork/IconSDK.net) - ICON SDK for .NET
 - [icon-sdk-python](https://github.com/icon-project/icon-sdk-python) - Official ICON SDK for Python based on ICON JSON-RPC API V3
 - [icon-sdk-java](https://github.com/icon-project/icon-sdk-java) - Official ICON SDK for Java based on ICON JSON-RPC API V3
 - [icon-sdk-js](https://github.com/icon-project/icon-sdk-js) - Official ICON SDK for JavaScript based on ICON JSON-RPC API V3
+- [rhizome-contract-explorer](https://github.com/rhizome-labs/rhizome-contract-explorer) - A web application for querying and interacting with ICON smart contracts
 
 ## Templating
 _Templating for bootstrapping smart contracts and other software in the ICON ecosystem_
