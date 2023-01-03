@@ -198,3 +198,7 @@ _Audio-visual, written, or other mediums for discussing and learning about ICON_
 ## Tutorials
 _Tutorials for participating in the ICON ecosystem_
 - [ICON Python Tutorials](https://github.com/rhizome-labs/icon-python-tutorials/tree/main/icon_python_tutorials) - Tutorials developed by [Rhizome Labs](https://github.com/rhizome-labs) for using the [Python SDK](https://github.com/icon-project/icon-sdk-python)
+
+## Templates
+_Templates for projects or other useful things_
+- [Template repository](https://github.com/icon-community/template-repository) - Template repository for a new project, including README, Issue Templates, PR Template, LICENSE, Release message auto-instructions, CONTRIBUTING, and CODE_OF_CONDUCT files
