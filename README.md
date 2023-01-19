@@ -133,6 +133,7 @@ _Templating for bootstrapping smart contracts and other software in the ICON eco
 
 - [java-score-examples](https://github.com/icon-project/java-score-examples) - Smart contract examples written for the ICON Java Execution Environment
 - [javaee-tokens](https://github.com/sink772/javaee-tokens) - A Java SCORE Library for ICON Standard Tokens
+- [soulbound-token](https://github.com/Staky-io/soulbound-token) - ICON Java implementation of the soulbound NFT token
 
 ## Testing
 _Tools related to testing code, including smart contracts, for the ICON blockchain_
