@@ -148,6 +148,8 @@ _Tools and software related to tracking the state of the ICON blockchain_
 - [ICON Community Tracker](https://tracker.icon.community/) - A blockchain tracker for the ICON main and test networks that can be [run locally as well](https://github.com/sudoblockio/icon-tracker)
 - [ICON Watch](https://iconwat.ch/) - A blockchain tracker made by [Blockmove](https://blockmove.eu/)
 - [Rhizome Community Tracker](https://alpha.tracker.rhizome.dev/) - A blockchain explorer built by the team members from Rhizome
+- [Debug-tracer.web.app](https://debug-trace.web.app/) - Transaction debug tracer
+- [ICON Tx Tracer](https://icon-tx-tracer.vercel.app/) - Transaction debug tracer
 
 ## Wallet
 _Cryptocurrency wallets built with the ICON ecosystem in mind_
