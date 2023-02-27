@@ -141,15 +141,14 @@ _Tools related to testing code, including smart contracts, for the ICON blockcha
 - [icon-testsuite](https://github.com/icon-project/icon-testsuite) - A collection of test cases for the ICON node using client SDK in Java
 - [javaee-unittest](https://github.com/icon-project/javaee-unittest) - An Unit Testing Framework for ICON Java smart contracts
 - [Live network transaction tracer](https://icon-tx-tracer.vercel.app/) - A web app for tracing ICON network transactions on live networks
-
+- [Debug-tracer.web.app](https://debug-trace.web.app/) - A web app for tracing ICON network transactions on live networks
+- 
 ## Tracker
 _Tools and software related to tracking the state of the ICON blockchain_
 
 - [ICON Community Tracker](https://tracker.icon.community/) - A blockchain tracker for the ICON main and test networks that can be [run locally as well](https://github.com/sudoblockio/icon-tracker)
 - [ICON Watch](https://iconwat.ch/) - A blockchain tracker made by [Blockmove](https://blockmove.eu/)
 - [Rhizome Community Tracker](https://alpha.tracker.rhizome.dev/) - A blockchain explorer built by the team members from Rhizome
-- [Debug-tracer.web.app](https://debug-trace.web.app/) - Transaction debug tracer
-- [ICON Tx Tracer](https://icon-tx-tracer.vercel.app/) - Transaction debug tracer
 
 ## Wallet
 _Cryptocurrency wallets built with the ICON ecosystem in mind_
