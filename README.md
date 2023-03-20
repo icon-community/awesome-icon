@@ -41,6 +41,7 @@ _Core components to ICON blockchain_
 
 - [goloop](https://github.com/icon-project/goloop) - The basis for the official ICON blockchain node
 - [gochain-local](https://github.com/icon-project/gochain-local) - Tools for running the ICON blockchain locally
+- [gochain-local-decentralize](https://github.com/icon-community/gochain-local-decentralize) - Helpers scripts for decentralizing a multi node local network created with the `gochain-local` repo.
 - [goloop-icon](https://hub.docker.com/r/iconloop/goloop-icon) - Docker container for the goloop blockchain engine
 - [icon2-node](https://hub.docker.com/r/iconloop/icon2-node) - Docker container for an ICON blockchain node
 
