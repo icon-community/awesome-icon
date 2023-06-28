@@ -98,16 +98,25 @@ _Tools, software, and other resources related to blockchain governance in the IC
 ## Interoperability
 _Tools and software related to blockchain interoperability in the ICON ecosystem_
 
-- [btp](https://github.com/icon-project/btp) - Blockchain Transmission Protocol, which is the ICON Foundation's core interoperability product
+- [btp](https://github.com/icon-project/btp2) - Blockchain Transmission Protocol, which is the ICON Foundation's core interoperability product
 - [btp-litepaper](https://github.com/icon-project/btp-litepaper) - Lite explainer paper for BTP. [Also available here](https://icon.community/assets/btp-litepaper.pdf)
+- [BTP IIP Standard](https://github.com/icon-project/IIPs/blob/master/IIPS/iip-52.md) - ICON BTP Arbitrary Call Service Standard.
 - [Nexus](https://github.com/icon-project/Nexus) - Interoperability frontend for using the Blockchain Transmission Protocol with the ICON main network as a routing hub
 - [Orbit Bridge](https://bridge-docs.orbitchain.io/) - Bridging option available on for the ICON blockchain ecosystem
 - [btp2-testnet](https://github.com/iconloop/btp2-testnet) - Information on the BTP network connected to the ICON Berlin TestNet.
-- xCall sample DApps:
-    * [e2edemo](https://github.com/icon-project/btp2/tree/main/e2edemo)
-    * [xcall-sample-dapp by @fidelve](https://github.com/FidelVe/xcall-sample-dapp)
-    * [btp-contracts-finder by @fidelve](https://github.com/FidelVe/btp-contracts-finder)
-    * xCall testing Dapp by @R0bi7: [xCall-testing-JVM](https://github.com/R0bi7/xCall-testing-JVM), [xCall-testing-EVM](https://github.com/R0bi7/xCall-testing-EVM), [xCall-testing-dApp](https://github.com/R0bi7/xCall-testing-dApp/tree/master)
+- [icon-project/btp2/e2edemo](https://github.com/icon-project/btp2/tree/main/e2edemo). xCall sample dapp of the official btp repository.
+- [fidelve/xcall-sample-dapp](https://github.com/FidelVe/xcall-sample-dapp). xCall sample dApp written in javascript.
+- [fidelve/btp-contracts-finder](https://github.com/FidelVe/btp-contracts-finder) nodejs script to automatically fetch BTP related contracts in a set of connected chains.
+- [R0bi7/xCall-testing-JVM](https://github.com/R0bi7/xCall-testing-JVM) - Sample JVM smart contract that interacts with xCall.
+- [R0bi7/xCall-testing-EVM](https://github.com/R0bi7/xCall-testing-EVM) - Sample EVM smart contract that interacts with xCall.
+- [R0bi7/xCall-testing-dApp](https://github.com/R0bi7/xCall-testing-dApp/tree/master) - Sample DApp that interacts with xCall.
+- [icon-project/btp2-solidity](https://github.com/icon-project/btp2-solidity) - BTP solidity contracts.
+- [icon-project/btp2-eth2](https://github.com/icon-project/btp2-eth2) - Relay implemantation for BTP 2.0 Protocol.
+- [icon-project/btp2-java](https://github.com/icon-project/btp2-java) - BTP java contracts.
+- [icon-project/btp2-bsc](https://github.com/icon-project/btp2-bsc) - Reference relay implementation for BTP 2.0 protocol.
+- [iconloop/btp2-testnet](https://github.com/iconloop/btp2-testnet/wiki/Fee-System) - BTP2 fee system reference.
+- [@iconfoundation/btp2-solidity-reference](https://www.npmjs.com/package/@iconfoundation/btp2-solidity-library) - BTP2 solidity library NPM package.
+- [iconloop/btp2-testnet](https://github.com/iconloop/btp2-testnet/wiki/BTP2-WIKI) - BTP2 Testnet Relay status.
 
 ## NFT
 _Tools and software related to non-fungible tokens_
