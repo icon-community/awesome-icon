@@ -102,6 +102,7 @@ _Tools and software related to blockchain interoperability in the ICON ecosystem
 - [btp-litepaper](https://github.com/icon-project/btp-litepaper) - Lite explainer paper for BTP. [Also available here](https://icon.community/assets/btp-litepaper.pdf)
 - [Nexus](https://github.com/icon-project/Nexus) - Interoperability frontend for using the Blockchain Transmission Protocol with the ICON main network as a routing hub
 - [Orbit Bridge](https://bridge-docs.orbitchain.io/) - Bridging option available on for the ICON blockchain ecosystem
+- [btp2-testnet](https://github.com/iconloop/btp2-testnet) - Information on the BTP network connected to the ICON Berlin TestNet.
 - xCall sample DApps:
     * [e2edemo](https://github.com/icon-project/btp2/tree/main/e2edemo)
     * [xcall-sample-dapp by @fidelve](https://github.com/FidelVe/xcall-sample-dapp)
