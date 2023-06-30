@@ -98,10 +98,22 @@ _Tools, software, and other resources related to blockchain governance in the IC
 ## Interoperability
 _Tools and software related to blockchain interoperability in the ICON ecosystem_
 
-- [btp](https://github.com/icon-project/btp) - Blockchain Transmission Protocol, which is the ICON Foundation's core interoperability product
-- [btp-litepaper](https://github.com/icon-project/btp-litepaper) - Lite explainer paper for BTP. [Also available here](https://icon.community/assets/btp-litepaper.pdf)
+- [btp](https://github.com/icon-project/btp2) - Blockchain Transmission Protocol, which is the ICON Foundation's core interoperability product
 - [Nexus](https://github.com/icon-project/Nexus) - Interoperability frontend for using the Blockchain Transmission Protocol with the ICON main network as a routing hub
 - [Orbit Bridge](https://bridge-docs.orbitchain.io/) - Bridging option available on for the ICON blockchain ecosystem
+- [iconloop/btp2-testnet](https://github.com/iconloop/btp2-testnet) - Information on the BTP network connected to the ICON Berlin TestNet.
+- [icon-project/btp2/e2edemo](https://github.com/icon-project/btp2/tree/main/e2edemo) - xCall sample dapp of the official btp repository.
+- [fidelve/xcall-sample-dapp](https://github.com/FidelVe/xcall-sample-dapp) - xCall sample dApp written in javascript.
+- [fidelve/btp-contracts-finder](https://github.com/FidelVe/btp-contracts-finder) - nodejs script to automatically fetch BTP related contracts in a set of connected chains.
+- [R0bi7/xCall-testing-JVM](https://github.com/R0bi7/xCall-testing-JVM) - Sample JVM smart contract that interacts with xCall.
+- [R0bi7/xCall-testing-EVM](https://github.com/R0bi7/xCall-testing-EVM) - Sample EVM smart contract that interacts with xCall.
+- [R0bi7/xCall-testing-dApp](https://github.com/R0bi7/xCall-testing-dApp/tree/master) - Sample DApp that interacts with xCall.
+- [icon-project/btp2-solidity](https://github.com/icon-project/btp2-solidity) - BTP solidity contracts.
+- [icon-project/btp2-eth2](https://github.com/icon-project/btp2-eth2) - Relay implemantation for BTP 2.0 Protocol.
+- [icon-project/btp2-java](https://github.com/icon-project/btp2-java) - BTP java contracts.
+- [icon-project/btp2-bsc](https://github.com/icon-project/btp2-bsc) - Reference relay implementation for BTP 2.0 protocol.
+- [iconloop/btp2-testnet/wiki/Fee-System](https://github.com/iconloop/btp2-testnet/wiki/Fee-System) - BTP2 fee system reference.
+- [@iconfoundation/btp2-solidity-reference](https://www.npmjs.com/package/@iconfoundation/btp2-solidity-library) - BTP2 solidity library NPM package.
 
 ## NFT
 _Tools and software related to non-fungible tokens_
@@ -173,9 +185,14 @@ _Other awesome community collections for related products and ecosystems_
 ## Core documentations
 _Documentations for the core ICON blockchain_
 
-- [ICE / SNOW network technical documentations](https://docs.icenetwork.io/welcome/introduction)
 - [ICON blockchain technical documentations](https://docs.icon.community)
 - [ICON Improvement Proposals (IIPs)](https://github.com/icon-project/iips)
+- [iconloop/btp2-testnet/wiki/BTP2-WIKI](https://github.com/iconloop/btp2-testnet/wiki/BTP2-WIKI) - BTP2 Testnet Relay status.
+- [btp-litepaper](https://github.com/icon-project/btp-litepaper) - Lite explainer paper for BTP. [Also available here](https://icon.community/assets/btp-litepaper.pdf)
+- [BTP IIP Standard](https://github.com/icon-project/IIPs/blob/master/IIPS/iip-25.md) - ICON BTP Standard.
+- [xCall IIP Standard](https://github.com/icon-project/IIPs/blob/master/IIPS/iip-52.md) - ICON BTP Arbitrary Call Service Standard.
+- [xCall Docs](https://docs.icon.community/cross-chain-communication/xcall) - xCall main documentation.
+- [BTP Docs](https://docs.icon.community/cross-chain-communication/blockchain-transmission-protocol-btp) - BTP main documentation.
 
 ## Communities
 _Communities within the ICON Ecosystem for technical or non-technical topics_
@@ -187,9 +204,9 @@ _Communities within the ICON Ecosystem for technical or non-technical topics_
 ## Funding programs
 _Programs for getting your ICON ecosystem projects funded_
 
-- [Contribution Proposal System](https://cps.icon.community/)
-- [ICE Developer Grants](https://iconfoundation.notion.site/ICE-Developer-Grant-Program-ICED-Grants-c11a735a50004429b5c04a0eac720574)
-- [Interoperability Incentive Program](https://se8br1ugut6.typeform.com/to/Qkialcom)
+- [Contribution Proposal System](https://cps.icon.community/) - ICON Community Funding System.
+- [Interoperability Incentive Program](https://se8br1ugut6.typeform.com/to/Qkialcom) - ICON Interoperability Funding Program.
+- [Validator Support Program](https://icon.community/blog/2023/icon-validator-support-program/) - ICON Validator Support Program.
 
 ## Content
 _Audio-visual, written, or other mediums for discussing and learning about ICON_
@@ -202,6 +219,7 @@ _Audio-visual, written, or other mediums for discussing and learning about ICON_
 
 ## Tutorials
 _Tutorials for participating in the ICON ecosystem_
+- [Developer Tutorials](https://icon.community/tutorials/) - ICON developer tutorials.
 - [ICON Python Tutorials](https://github.com/rhizome-labs/icon-python-tutorials/tree/main/icon_python_tutorials) - Tutorials developed by [Rhizome Labs](https://github.com/rhizome-labs) for using the [Python SDK](https://github.com/icon-project/icon-sdk-python)
 
 ## Templates
