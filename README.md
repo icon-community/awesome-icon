@@ -114,6 +114,7 @@ _Tools and software related to blockchain interoperability in the ICON ecosystem
 - [icon-project/btp2-bsc](https://github.com/icon-project/btp2-bsc) - Reference relay implementation for BTP 2.0 protocol.
 - [iconloop/btp2-testnet/wiki/Fee-System](https://github.com/iconloop/btp2-testnet/wiki/Fee-System) - BTP2 fee system reference.
 - [@iconfoundation/btp2-solidity-reference](https://www.npmjs.com/package/@iconfoundation/btp2-solidity-library) - BTP2 solidity library NPM package.
+- [BTP2 Network Status Monitor](https://testnet.btp2.24x365.online/) - BTP2 Network Status Monitor.
 
 ## NFT
 _Tools and software related to non-fungible tokens_
@@ -163,7 +164,6 @@ _Tools and software related to tracking the state of the ICON blockchain_
 
 - [ICON Community Tracker](https://tracker.icon.community/) - A blockchain tracker for the ICON main and test networks that can be [run locally as well](https://github.com/sudoblockio/icon-tracker)
 - [ICON Watch](https://iconwat.ch/) - A blockchain tracker made by [Blockmove](https://blockmove.eu/)
-- [Rhizome Community Tracker](https://alpha.tracker.rhizome.dev/) - A blockchain explorer built by the team members from Rhizome
 
 ## Wallet
 _Cryptocurrency wallets built with the ICON ecosystem in mind_
