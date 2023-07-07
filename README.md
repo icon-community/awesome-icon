@@ -115,6 +115,7 @@ _Tools and software related to blockchain interoperability in the ICON ecosystem
 - [iconloop/btp2-testnet/wiki/Fee-System](https://github.com/iconloop/btp2-testnet/wiki/Fee-System) - BTP2 fee system reference.
 - [@iconfoundation/btp2-solidity-reference](https://www.npmjs.com/package/@iconfoundation/btp2-solidity-library) - BTP2 solidity library NPM package.
 - [BTP2 Network Status Monitor](https://testnet.btp2.24x365.online/) - BTP2 Network Status Monitor.
+- [R0bi7/First-step-into-interoperability](https://github.com/R0bi7/First-step-into-interoperability/tree/master) - DEtailed tutorial with code examples about xCall.
 
 ## NFT
 _Tools and software related to non-fungible tokens_
