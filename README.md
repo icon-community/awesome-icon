@@ -23,6 +23,7 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Testing](#testing)
   - [Tracker](#tracker)
   - [Wallet](#wallet)
+  - [Zero-knowledge proofs](#zero-knowledge-proofs)
 - [Resources](#resources)
   - [Related awesome lists](#related-awesome-lists)
   - [Core documentations](#core-documentations)
@@ -30,6 +31,7 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Funding programs](#funding-programs)
   - [Content](#content)
   - [Tutorials](#tutorials)
+  
 
 # Projects
 
@@ -173,6 +175,10 @@ _Cryptocurrency wallets built with the ICON ecosystem in mind_
 - [Hana wallet](https://chrome.google.com/webstore/detail/hana/jfdlamikmbghhapbgfoogdffldioobgl) - Chrome extension wallet for cryptocurrencies in the ICON ecosystem
 - [IconEx wallet](https://github.com/icon-project/iconex_chrome_extension) -  ICONex Chrome extension wallet for cryptocurrencies in the ICON ecosystem
 - [MyIconWallet](https://github.com/Hana-Technology/myiconwallet-react) - Desktop and mobile wallet for cryptocurrencies in the ICON ecosystem
+
+## Zero-knowledge proofs
+- [venture23-zkp/icon-snarkjs](https://github.com/venture23-zkp/icon-snarkjs) - zkSNARK implementation in JavaScript & WASM
+- [venture23-zkp/zkp-examples](https://github.com/venture23-zkp/zkp-examples) - A set of example apps and primitives that developers can reference to implement various Zero Knowledge based projects.
 
 # Resources
 
