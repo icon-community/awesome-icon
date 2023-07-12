@@ -23,6 +23,7 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Testing](#testing)
   - [Tracker](#tracker)
   - [Wallet](#wallet)
+  - [Zero-knowledge proofs](#zero-knowledge-proofs)
 - [Resources](#resources)
   - [Related awesome lists](#related-awesome-lists)
   - [Core documentations](#core-documentations)
@@ -30,7 +31,7 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Funding programs](#funding-programs)
   - [Content](#content)
   - [Tutorials](#tutorials)
-  - [Zero-knowledge proofs](#zero-knowledge-proofs)
+  
 
 # Projects
 
