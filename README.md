@@ -30,6 +30,7 @@ _Note that smart contracts decentralized applications also function as libraries
   - [Funding programs](#funding-programs)
   - [Content](#content)
   - [Tutorials](#tutorials)
+  - [Zero-knowledge proofs](#zero-knowledge-proofs)
 
 # Projects
 
@@ -226,3 +227,7 @@ _Tutorials for participating in the ICON ecosystem_
 ## Templates
 _Templates for projects or other useful things_
 - [Template repository](https://github.com/icon-community/template-repository) - Template repository for a new project, including README, Issue Templates, PR Template, LICENSE, Release message auto-instructions, CONTRIBUTING, and CODE_OF_CONDUCT files
+
+## Zero-knowledge proofs
+- [venture23-zkp/icon-snarkjs](https://github.com/venture23-zkp/icon-snarkjs) - zkSNARK implementation in JavaScript & WASM
+- [venture23-zkp/zkp-examples](https://github.com/venture23-zkp/zkp-examples) - A set of example apps and primitives that developers can reference to implement various Zero Knowledge based projects.
